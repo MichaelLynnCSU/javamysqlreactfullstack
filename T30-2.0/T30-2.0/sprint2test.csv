@@ -1,0 +1,6 @@
+id,type,name,latitude,longitude,elevation_ft,municipality,home_link,wikipedia_link
+KFNL,small_airport,Fort Collins Loveland Municipal Airport,40.4518013,-105.0110016,5016,Fort Collins/Loveland,http://fortloveair.com,http://en.wikipedia.org/wiki/Fort_Collins-Loveland_Municipal_Airport
+KDRO,small_airport,Durango La Plata County Airport,37.1515007,-107.7539978,6685,Durango,http://www.durangogov.org/airport/index.cfm,http://en.wikipedia.org/wiki/Durango-La_Plata_County_Airport
+KITR,small_airport,Kit Carson County Airport,39.24250031,-102.2850037,4219,Burlington,,
+KGJT,medium_airport,Grand Junction Regional Airport,39.12239838,-108.5270004,4858,Grand Junction,http://www.gjairport.com/,http://en.wikipedia.org/wiki/Grand_Junction_Regional_Airport
+K8V7,small_airport,Springfield Municipal Airport,37.45869827,-102.6179962,4390,Springfield,,

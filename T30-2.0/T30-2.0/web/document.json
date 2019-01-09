@@ -1,0 +1,22 @@
+[
+  {
+    "start" : "Blue Spruce Brewing Company",
+    "end" : "Upslope Brewing Company", 
+    "distance": 122.022,
+  },
+  {
+    "start" : "Colorado Mountain Brewery",
+    "end" : "Ouray Brewery",
+    "distance" : 170.33
+  },
+  {
+    "start" : "Left Hand Brewing Company",
+    "end" : "Bristol Brewing Company",
+    "distance" 197.2766: 
+  },
+  {
+    "start" : "Shoes and Brews",
+    "end" : "Elevation Beer Company",
+    "distance" 30.02509: 
+  }
+]
