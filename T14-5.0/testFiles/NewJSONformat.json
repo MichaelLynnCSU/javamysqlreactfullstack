@@ -1,0 +1,208 @@
+{
+  "columns":[
+    {
+      "name": "Latitude"
+    },
+    {
+      "name": "Longitude"
+    },
+    {
+      "name": "City"
+    },
+    {
+      "name": "Elevation"
+    },
+    {
+      "name": "Brewery"
+    }
+  ],
+  "itinerary": [
+    {
+      "start": "Loveland",
+      "end": "Fort Collins",
+      "distance": 21,
+      "startData": {
+        "city": "loveland",
+        "latitude": "106.34",
+        "longitude": "95.23",
+        "elevation": 4800
+      },
+      "endData": {
+        "city": "Fort Collins",
+        "latitude": "108.34",
+        "longitude": "96.23",
+        "elevation": 5000
+      }
+    },
+    {
+      "start": "Fort Collins",
+      "end": "Denver",
+      "distance": 45,
+      "startData": {
+        "city": "Fort Coolins",
+        "latitude": "106.34",
+        "longitude": "95.23",
+        "elevation": 5100
+      },
+      "endData": {
+        "city": "Denver",
+        "latitude": "108.34",
+        "longitude": "96.23",
+        "elevation": 5280
+      }
+    },
+    {
+      "start": "Fort Collins",
+      "end": "Denver",
+      "distance": 45,
+      "startData": {
+        "city": "Fort Coolins",
+        "latitude": "106.34",
+        "longitude": "95.23",
+        "elevation": 5100
+      },
+      "endData": {
+        "city": "Denver",
+        "latitude": "108.34",
+        "longitude": "96.23",
+        "elevation": 5280
+      }
+    },
+    {
+      "start": "Loveland",
+      "end": "Fort Collins",
+      "distance": 2234251,
+      "startData": {
+        "city": "loveland",
+        "latitude": "106.34",
+        "longitude": "95.23",
+        "elevation": 4800
+      },
+      "endData": {
+        "city": "Fort Collins",
+        "latitude": "108.34",
+        "longitude": "96.23",
+        "elevation": 5000
+      }
+    },
+    {
+      "start": "Fort Collins",
+      "end": "Denver",
+      "distance": 45,
+      "startData": {
+        "city": "Fort Coolins",
+        "latitude": "106.34",
+        "longitude": "95.23",
+        "elevation": 5100
+      },
+      "endData": {
+        "city": "Denver",
+        "latitude": "108.34",
+        "longitude": "96.23",
+        "elevation": 5280
+      }
+    },
+    {
+      "start": "Fort Collins",
+      "end": "Denver",
+      "distance": 10030,
+      "startData": {
+        "city": "Fort Coolins",
+        "latitude": "106.34",
+        "longitude": "95.23",
+        "elevation": 5100
+      },
+      "endData": {
+        "city": "Denver",
+        "latitude": "108.34",
+        "longitude": "96.23",
+        "elevation": 5280
+      }
+    },
+    {
+      "start": "Fort Collins",
+      "end": "Denver",
+      "distance": 45,
+      "startData": {
+        "city": "Fort Coolins",
+        "latitude": "106.34",
+        "longitude": "95.23",
+        "elevation": 5100
+      },
+      "endData": {
+        "city": "Denver",
+        "latitude": "108.34",
+        "longitude": "96.23",
+        "elevation": 5280
+      }
+    },
+    {
+      "start": "Fort Collins",
+      "end": "Denver",
+      "distance": 10030,
+      "startData": {
+        "city": "Fort Coolins",
+        "latitude": "106.34",
+        "longitude": "95.23",
+        "elevation": 5100
+      },
+      "endData": {
+        "city": "Denver",
+        "latitude": "108.34",
+        "longitude": "96.23",
+        "elevation": 5280
+      }
+    },
+    {
+      "start": "Fort Collins",
+      "end": "Denver",
+      "distance": 45,
+      "startData": {
+        "city": "Fort Coolins",
+        "latitude": "106.34",
+        "longitude": "95.23",
+        "elevation": 5100
+      },
+      "endData": {
+        "city": "Denver",
+        "latitude": "108.34",
+        "longitude": "96.23",
+        "elevation": 5280
+      }
+    },
+    {
+      "start": "Fort Collins",
+      "end": "Denver",
+      "distance": 10030,
+      "startData": {
+        "city": "Fort Coolins",
+        "latitude": "106.34",
+        "longitude": "95.23",
+        "elevation": 5100
+      },
+      "endData": {
+        "city": "Denver",
+        "latitude": "108.34",
+        "longitude": "96.23",
+        "elevation": 5280
+      }
+    },
+    {
+      "start": "Fort Collins",
+      "end": "Denver",
+      "distance": 45,
+      "startData": {
+        "city": "Fort Coolins",
+        "latitude": "106.34",
+        "longitude": "95.23",
+        "elevation": 5100
+      },
+      "endData": {
+        "city": "Denver",
+        "latitude": "108.34",
+        "longitude": "96.23",
+        "elevation": 5280
+      }
+    }
+  ]
+}

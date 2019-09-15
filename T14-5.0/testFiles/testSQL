@@ -1,0 +1,25 @@
+select airports.name, airports.latitude, airports.longitude, airports.municipality, region.name as region, country.name as country, continent.name as continent
+from 
+(
+	select name, latitude, longitude, continent, iso_country, iso_region, municipality
+	from airports
+) as airports,
+(
+	select name, code
+	from countries
+) as country,
+(
+	select name, code
+	from continents
+) as continent,
+(
+	select name, code
+	from regions
+) as region
+
+where
+country.code = airports.iso_country
+and 	continent.code = airports.continent
+and 	region.code = airports.iso_region
+and (airports.name like '%denver%' 
+	 or airports.municipality like '%denver%');

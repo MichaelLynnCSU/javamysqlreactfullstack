@@ -1,0 +1,169 @@
+body {
+    font-family: "Helvetica";
+}
+
+button {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid #343434;
+    transition: all 0.2s ease-in-out;
+}
+
+.input {
+	padding: 10px;
+}
+@media(max-width:992px){
+	.col-md-6{
+		box-sizing: border-box;
+		width: 80%;
+		margin:auto;
+	}
+}
+@media(min-width: 991px){
+	.col-md-6{
+		width: 40%;
+		margin:auto;
+	}
+	select {
+		width: 200px;
+		margin:auto;
+	}
+}
+.header{
+	margin-top: 20px;
+}
+select {
+	width: auto;
+	padding: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.worldMap {
+	width: 1024px;
+	height: 512px;
+}
+
+.itemClickable {
+	cursor: pointer;
+}
+
+button:hover {
+    background-color: #a9e4f1;
+    cursor: pointer;
+}
+
+.scrollSelect {
+	height: 300px;
+	width: 600px;
+	overflow: scroll;
+	border: 1px solid #343434;
+}
+
+.ImageUpload {
+  background-color: #e4e4e4;
+  color: #787878;
+  padding: 10px;
+  border: 1px solid #787878;
+}
+
+img {
+  height: 500px;
+  width: 500px;
+}
+
+.Itinerary {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.ItineraryItem {
+    font-family: "Helvetica";
+    background-color: rgba(125,200,240, 1);
+    padding: 10px;
+    border-radius: 5px;
+    color: #343434;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    font-size: 20px;
+}
+
+input {
+    margin: 10px;
+}
+
+.divlet {
+  box-sizing: border-box;
+  width: 33.3333%;
+  padding: 0px 15px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.well {
+    display: inline-block;
+}
+
+.from {
+    width: 60%;
+    display: inline-block;
+}
+
+.to {
+    width: 60%;
+    display: inline-block;
+}
+
+.total {
+    display: inline-block;
+    min-width: 30%;
+    max-width: 30%;
+    float:right;
+}
+
+h3 {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+.data {
+    margin-top: 5px;
+    margin-left: 5px;
+    display: inline-block;
+}
+
+li {
+    font-size: 18px;
+    display: block;
+}
+
+ul {
+    padding: 0;
+}
+
+.load {
+    margin-bottom: 20px;
+}
+
+.whiteBack{
+	background-color: #fff;
+}
+
+.totalDistance {
+    padding: 10px;
+    border-radius: 3px;
+    background-color: rgba(100,200,100, 1);
+    width: auto;
+    max-width: 240px;
+    margin-left: 20px;
+}
+
+.inline-button {
+  display: inline-block;
+  margin: 10px;
+}
